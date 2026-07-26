@@ -17,9 +17,12 @@
 </a> -->
 
 
-# Hi there, I'm Aiman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi there, I'm Aucky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <!-- I'm passionate about building clean and user-friendly web and mobile apps. Recently, I've been diving into Flutter and creating some projects.  -->
-I’m a dedicated FullStack Developer passionate about crafting seamless digital solutions. For me, every project is an opportunity to learn, innovate, and create something meaningful that makes technology more accessible.
+
+I'm a student at SMK Telkom Sidoarjo,  majoring in (SIJA).
+Learning, exploring, and growing through technology. Always ready for new challenges.
+
 <!-- <br><br>
 <a href="mailto:aimanwafii03@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
