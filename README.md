@@ -1,4 +1,4 @@
-<!-- [<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm4xYXB2cXFpOHh3NjB0YnV5cDV2b2lvYXAxbzR4cjB3Y2o3dm8wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7FDuR0rh63Qjwci0o/giphy.gif" width="100%" alt="Banner GIF">](https://aimanwafii.my.id/) 
+<!-- [<img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm16anl1MzV1dGZic3cwem44Ym50Y2xnbmhrNnFrZzA3M3RoZnR5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EehPm5Xw8NokatGozq/giphy.gif 
 [<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1kbm53dTc2N2V2ZTA1ZGU5MWE0emR2bWtseGl4bW1zMmh2d2hjZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HZzyYYSDpcfHTrQIC9/giphy.gif" width="100%" alt="Banner GIF">](https://aimanwafii.my.id/) -->
 <!-- <a href="https://aimanwafii.my.id/">
   <img src="https://media1.tenor.com/m/iBmwVTRoDS8AAAAC/a-space-for-the-unbound.gif" width="100%" />
