@@ -4,7 +4,7 @@
 
 # Hi there, I'm Aucky Faralya Bilqist 👋
 
-🎓 I'm a student at **SMK Telkom Sidoarjo**, majoring in **Network and Application Information Systems (SIJA)**.
+🎓 I'm a student at **SMK Telkom Sidoarjo**, majoring in **SIJA)**.
 
 💡 Passionate about technology and continuous learning.  
 I enjoy exploring new ideas, building projects, and improving my skills through collaboration and real-world experiences.
@@ -14,9 +14,8 @@ I enjoy exploring new ideas, building projects, and improving my skills through 
 # 🚀 About Me
 
 - 🌱 Currently learning Programming, Networking, and Linux
-- 💻 Interested in Cybersecurity, Artificial Intelligence, and UI/UX Design
 - 📚 Building projects to improve my technical skills
-- 🎯 Preparing myself for DTP selection and future career opportunities
+- 🎯 Preparing myself future career opportunities
 - 🤝 Always open to learning new things and collaborating
 
 ---
@@ -43,21 +42,12 @@ I enjoy exploring new ideas, building projects, and improving my skills through 
 
 ---
 
-# 🏆 Achievements
-
-- 🥇 Gold Medal – Indonesian Language Olympiad
-- 🥋 National Pencak Silat Athlete
-- 🏕️ Scout Leadership Experience
-- 📢 LKBB Competition Participant
-
----
-
 # 📂 Featured Projects
 
 - 🤖 Hand Gesture Recognition
 - 🌱 SORTIQ – AI Waste Management Platform
 - 🌐 Landing Page Website
-- 🏥 SMARTSTUNTING
+- 🏥 Web SelfTalk
 - 📚 School Programming Projects
 
 ---
